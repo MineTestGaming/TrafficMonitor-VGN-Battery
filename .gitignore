@@ -1,0 +1,4 @@
+.analysis/
+build/
+dist/
+.vs/
